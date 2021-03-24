@@ -1,6 +1,11 @@
 ### Hi there I'm Lydia 👋
 
-I finished the General Assembly Software Engineering Immersive course in March 2021 and am looking for a role to let me start using the skills I've gained! You can find our more about me by going to <a href="www.lydiawood.co.uk">www.lydiawood.co.uk</a>
+I finished the General Assembly Software Engineering Immersive course in March 2021 and am looking for a role to let me start using the skills I've gained! 
+
+Currently I'm:
+⚙️  Learning more about accessibility
+
+You can find out more about me by going to <a href="www.lydiawood.co.uk">www.lydiawood.co.uk</a>
 
 <!--
 **lydiarrrw/lydiarrrw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
