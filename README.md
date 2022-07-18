@@ -1,12 +1,11 @@
 ### Hi there I'm Lydia 👋
 
-I finished the General Assembly Software Engineering Immersive course in March 2021 and am looking for a role to let me start using the skills I've gained! 
-
 Currently I'm:
 - ⚙️  Learning more about accessibility
+- 🙃 Building some fun things
 - 🐛  Trying to figure out a few bugs in my projects
 
-You can find some projects I worked on during the GA course below. These are:
+I finished the General Assembly Software Engineering Immersive course in March 2021 where I built these: 
 1. <a href="https://lydiarrrw.github.io/project-1/">ROSHMAN</a> - A pacman style game using HTML, CSS and JavaScript.👻
 2. <a href="https://lydiarrrw.github.io/project-2/">REXFLIX</a> - A movie recommendations site built using React and The Movie Database API.🦖
 3. <a href="https://stepladderlw.herokuapp.com/">Stepladder</a> - A glassdoor style full-stack site - it's fun to make your own imaginary companies!💼
